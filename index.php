@@ -26,8 +26,12 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-
-<!-- Her skal sidens indhold ligge -->
+<div>
+    <span></span>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Sapiente consequatur obcaecati enim possimus culpa, rem praesentium 
+        dignissimos exercitationem reprehenderit corporis.</p>
+</div>
 
 </body>
 </html>
